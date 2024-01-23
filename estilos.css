@@ -1,0 +1,22 @@
+h2 {
+ margin-bottom: 3px;
+}
+p {
+    margin-top:5px;
+}
+pre {
+    margin-top: 5px;
+}
+h2{
+    color: blueviolet;
+}
+#index{
+    background-color: gainsboro;
+    
+}
+.sociedad {
+    background-color: aquamarine;
+}
+.Internacional{
+    background-color: rgb(247, 119, 219);
+}
