@@ -20,3 +20,29 @@ h2{
 .Internacional{
     background-color: rgb(247, 119, 219);
 }
+.economia{
+    background-color: blue;
+    color: aliceblue;
+}
+.salud{
+    background-color: greenyellow;
+}
+#salud2{
+    color: red;
+}
+.tecnologia{
+    font-style: italic;
+    background-color: lightpink;
+}
+#titulo2{
+    color: blue;
+    background-color: darkseagreen;
+}
+.deporte{
+    background-color: black;
+    color: white;
+}
+.negrita{
+    color: white;
+    font-weight: bold;
+}
